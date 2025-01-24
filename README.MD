@@ -28,7 +28,7 @@ This project demonstrates how to fine-tune a GPT-2 model using Low-Rank Adaptati
 
 ## Training
 
-To fine-tune the model, run the [main.py](http://_vscodecontentref_/0) script:
+To fine-tune the model, run the [main.py] script:
 ```sh
 python main.py
 ```
