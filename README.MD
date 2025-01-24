@@ -11,8 +11,8 @@ This project demonstrates how to fine-tune a GPT-2 model using Low-Rank Adaptati
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/lora-finetuning.git
-    cd lora-finetuning
+    git clone https://github.com/alexander-uspenskiy/lora
+    cd lora
     ```
 
 2. Create and activate a virtual environment:
